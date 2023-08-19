@@ -42,8 +42,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://radiant-croissant-2fa875.netlify.app)
+- Solution URL: [Github](https://github.com/Mafilala/Frontend_io_summary_component/)
+- Live Site URL: [click](https://radiant-croissant-2fa875.netlify.app)
 
 ## My process
 
@@ -64,4 +64,4 @@ I refreshed my memory of media query
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Mafilala)
+- Frontend Mentor - [Maruf.s](https://www.frontendmentor.io/profile/Mafilala)
