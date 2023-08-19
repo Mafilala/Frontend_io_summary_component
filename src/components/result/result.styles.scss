@@ -1,0 +1,13 @@
+.result-container {
+  background-color: white;
+  border-radius: 15px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+@media (max-width: 800px) {
+  .result-container {
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: auto;
+  }
+}

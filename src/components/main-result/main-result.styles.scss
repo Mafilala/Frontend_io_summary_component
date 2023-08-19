@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+.main-result-container {
+  background-color: var(--Light-royal-blue);
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  opacity: 0.9;
+  padding: 30px 50px;
+  row-gap: 30px;
+}
+.score {
+  aspect-ratio: 1/1;
+  border-radius: 50%;
+  background-color: var(--Cobalt-blue);
+  opacity: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 50px;
+  text-align: center;
+}
+.score span {
+  display: block;
+  font-size: 0.85rem;
+  color: #8175f7;
+}
+.comment {
+  width: 220px;
+  text-align: center;
+  color: #8280ee;
+}
+.score .scr {
+  font-size: 52px;
+  color: #fefffe;
+}
+
+.main-result-container h2 {
+  color: #fefffe;
+}
+.main-result-container h2 {
+  color: #cbc1ff;
+  font-size: 1rem;
+}
