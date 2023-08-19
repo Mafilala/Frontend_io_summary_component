@@ -1,5 +1,13 @@
 import "./row.styles.scss";
-const Row = ({ prop }) => {
+
+interface RowProps {
+  prop: {
+    category: string;
+    score: number;
+    icon: string;
+  };
+}
+const Row: React.FC<RowProps> = ({ prop }) => {
   const { category, score, icon } = prop;
   console.log(icon);
   return (

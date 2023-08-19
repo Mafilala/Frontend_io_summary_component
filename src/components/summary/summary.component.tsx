@@ -28,8 +28,8 @@ const Summary = () => {
     <div className="summary-container">
       <h2>Summary</h2>
       <div className="row-container">
-        {rows.map((prop) => (
-          <Row prop={prop} />
+        {rows.map((rowProp) => (
+          <Row prop={rowProp} />
         ))}
       </div>
       <button>Continue</button>
